@@ -1,2 +1,2 @@
 # JWT
-Netcracker Training - Java Programs
+Java Practice Problems
